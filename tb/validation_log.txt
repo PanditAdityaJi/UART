@@ -1,0 +1,14 @@
+
+UART Validation Log
+=====================
+Baud Rate      : 9600 bps
+Sample Rate    : 1000000.0 Hz
+Transmitted    : 0xA5
+Received       : 0xA5
+Error Flags    : None
+Test Status    : PASS
+
+Timing:
+Bit Time       : 104.17 µs
+Samples/Bit    : 104
+Total Bits     : 10
